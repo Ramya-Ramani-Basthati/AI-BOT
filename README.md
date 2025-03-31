@@ -59,14 +59,4 @@ User: Where is Gudlavalleru Engineering College located?
 Output:
 Answer: Gudlavalleru Engineering College is located in Gudlavalleru, Krishna District, Andhra Pradesh, India.
 
-📚 Project Structure
-/AI-Chatbot
-├── /data
-│   ├── Gudlavalleru.csv              # Original CSV file with questions and answers
-│   └── Processed_Questions.csv       # CSV file with processed questions and answers
-├── /src
-│   ├── Module1.py                    # Preprocessing and CSV generation
-│   └── Module2.py                    # User interaction and response retrieval
-├── README.md                         # Project documentation
-└── requirements.txt                  # List of dependencies
 
