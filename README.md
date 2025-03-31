@@ -18,11 +18,11 @@ Required packages:
 pandas
 nltk
 
-2. Install Required Packages
+2.Install Required Packages
 Run the following command to install dependencies:
 pip install pandas nltk
 
-3. Download NLTK Resources
+3.Download NLTK Resources
 Ensure the following NLTK packages are downloaded:
 import nltk
 nltk.download('punkt')
@@ -30,7 +30,7 @@ nltk.download('stopwords')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('wordnet')
 
-4. Place Required Files
+4.Place Required Files
 Place Gudlavalleru.csv in the same directory as your Python scripts.
 
 🚀 Usage Instructions
